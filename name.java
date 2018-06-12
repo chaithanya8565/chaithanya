@@ -20,7 +20,7 @@ public class dtp {
 		            {
 		              
 		                    
-		                    System.out.println("* long");
+		                    System.out.println("* lng");
 		                   }
 		                
 		                //Complete the code
